@@ -1,3 +1,5 @@
 openssl s_client  -connect <SQL Server hostname>:<SQL Server Port> -state -debug -servername <SQL Server hostname>
 
 openssl s_client  -connect <SQL Server hostname>:<SQL Server Port>  -msg -CAfile <.pem path>
+
+https://www.thesslstore.com/knowledgebase/ssl-generate/cetificate-signing-request-overview/
